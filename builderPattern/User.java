@@ -19,4 +19,32 @@ public class User {
     // this.country = country;
     // this.address = address;
     // }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public void setUsername(String username) {
+        this.username = username;
+    }
+
+    public void setPassword(String password) {
+        this.password = password;
+    }
+
+    public void setAge(int age) {
+        this.age = age;
+    }
+
+    public void setSalary(double salary) {
+        this.salary = salary;
+    }
+
+    public void setCountry(String country) {
+        this.country = country;
+    }
+
+    public void setAddress(String address) {
+        this.address = address;
+    }
 }
